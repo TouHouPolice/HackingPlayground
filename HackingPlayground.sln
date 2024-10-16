@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternalMemoryHack", "InternalMemoryHack\InternalMemoryHack.vcxproj", "{A3384682-561D-44CA-B222-0D1E24307A6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{53557C9D-DC60-48FF-A33D-C3301F66E8B9}"
+	ProjectSection(SolutionItems) = preProject
+		Shared\Alias.hpp = Shared\Alias.hpp
+		Shared\OffsetChain.hpp = Shared\OffsetChain.hpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Debug|x64.ActiveCfg = Debug|x64
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Debug|x64.Build.0 = Debug|x64
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Debug|x86.Build.0 = Debug|Win32
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x64.ActiveCfg = Release|x64
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x64.Build.0 = Release|x64
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x86.ActiveCfg = Release|Win32
+		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E40344-E701-40FE-AC81-F3699D6ACA04}
+	EndGlobalSection
+EndGlobal
