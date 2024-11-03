@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{53557C
 		Shared\OffsetChain.hpp = Shared\OffsetChain.hpp
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLInjector", "DLLInjector\DLLInjector.vcxproj", "{EDDD3EEF-4477-4822-AFAC-2AA04A888546}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,14 @@ Global
 		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x64.Build.0 = Release|x64
 		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x86.ActiveCfg = Release|Win32
 		{A3384682-561D-44CA-B222-0D1E24307A6E}.Release|x86.Build.0 = Release|Win32
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Debug|x64.ActiveCfg = Debug|x64
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Debug|x64.Build.0 = Debug|x64
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Debug|x86.Build.0 = Debug|Win32
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Release|x64.ActiveCfg = Release|x64
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Release|x64.Build.0 = Release|x64
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Release|x86.ActiveCfg = Release|Win32
+		{EDDD3EEF-4477-4822-AFAC-2AA04A888546}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
